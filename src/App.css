@@ -1,38 +1,21 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: myFont;
+  src: url(spliffs.ttf);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.subtitle{
+  background-image:linear-gradient(150deg,rgb(52, 119, 51),white);
+  border-bottom: 2px solid blue;
+  font-family: myFont;
+  padding-left: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: azure;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+iframe{
+  width:90vw;
+  height:90vh;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
