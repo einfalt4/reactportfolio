@@ -1,3 +1,8 @@
+.App {
+  background-color: black;
+  color: white;
+}
+
 @font-face {
   font-family: myFont;
   src: url(spliffs.ttf);
@@ -11,11 +16,24 @@
   padding-top: 10px;
   padding-bottom: 10px;
   color: azure;
+  margin-bottom: 20px;
 }
 
 
 iframe{
   width:90vw;
   height:90vh;
+}
+
+.container{
+  padding-bottom: 30px;
+}
+
+.card-text, .card-body {
+  color:black;
+}
+
+.btn-warning{
+  margin-left: 10px;
 }
 
