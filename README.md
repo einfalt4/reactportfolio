@@ -49,3 +49,17 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshot
+
+![Screenshot (25)](https://user-images.githubusercontent.com/107439535/205737067-41e6d1f6-0114-43ad-8a45-8e6087cfb397.png)
+
+
+
+![Screenshot (26)](https://user-images.githubusercontent.com/107439535/205737125-6cd00dab-1342-4272-8a57-fbc37104db6a.png)
+
+##Credits 
+
+Created by Randy Einfalt
+
+Github: https://github.com/einfalt4/reactportfolio
+
+Live: https://einfalt4.github.io/reactportfolio/
