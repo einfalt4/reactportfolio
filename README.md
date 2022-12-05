@@ -56,7 +56,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/107439535/205737125-6cd00dab-1342-4272-8a57-fbc37104db6a.png)
 
-##Credits 
+## Credits 
 
 Created by Randy Einfalt
 
