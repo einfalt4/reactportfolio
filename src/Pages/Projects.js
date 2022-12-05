@@ -6,7 +6,7 @@ function Projects() {
     <h2 className="subtitle">Projects</h2>
     <section className='d-flex flex=wrap justify-content-center'>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={process.env.PUBLIC_URL + 'src/images/pwgen.png'} />
+      <Card.Img variant="top" src={process.env.PUBLIC_URL + 'pwgen.png'} />
       <Card.Body>
         <Card.Title>Password Generator</Card.Title>
         <Card.Text>

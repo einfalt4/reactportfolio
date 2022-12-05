@@ -11,16 +11,16 @@ export default function Aboutme (){
         </p>
         <ul>
             <li>
-                Working out
+                Playing with my 2 boys
             </li>
             <li>
                 Watching/Playing sports
             </li>
             <li>
-                Learning new things
+                Gaming
             </li>
             <li>
-                Spending time with my loved ones
+                
             </li>
         </ul>
         <p>
